@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para a Div A */
+#divA {
+    background-color: #FAD02E;
+    width: 500px;
+    height: 500px;
+}
+
+/* Estilos para a Div B */
+#divB {
+    background-color: #4CAF50;
+    width: 50%;
+    height: 50%;
+}
+
+/* Estilos para o parágrafo dentro da Div B */
+#divB p {
+    color: white;
+    background-color: #F44336;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Estilos para a Div D */
+#divD {
+    background-color: #7EB9EB;
+    width: 50%;
+    height: 50%;
+}
+
+/* Estilos para a Div E */
+#divE {
+    background-color: #FF6666;
+    width: 75%;
+    height: 50%;
+}
